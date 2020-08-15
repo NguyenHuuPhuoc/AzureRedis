@@ -1,0 +1,2 @@
+# AzureRedis
+Demo azure redis
